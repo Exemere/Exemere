@@ -1,9 +1,21 @@
 </b>
 </b>
 <h1 align="center">Nicolas Esemere </h1>
-</b>
 <h2 align="center">Software Developer</h2>
-</b>                                                          
+</b> 
+<a href="https://linkedin.com/in/abdoachhoubi" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/abdo_achhoubi" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/abdo.achhoubi" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://achhoubiplus.hashnode.dev" target="_blank">
+<img src=https://img.shields.io/badge/hashnode-%2300acee.svg?color=2962FF&style=for-the-badge&logo=hashnode&logoColor=white alt=hshnode style="margin-bottom: 5px;" />
+</a>
+</b>
 <center>Hello there! 👋 Welcome to my GitHub profile. I'm Nicolas Esemere, a passionate software developer with expertise in JavaScript, React, Flask, Python, HTML & CSS, and Bootstrap. I love creating robust and efficient solutions to solve real-world problems.<center>
 
 <h2 align="center"><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
