@@ -44,7 +44,7 @@ I am dedicated to crafting clean and scalable code that brings ideas to life. My
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
       alt="react"/> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-ES6%20%7C%20Node.js%20%7C%20React%20%7C%20Express-yellow?style=for-the-badge&logo=javascript"
+    <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"
       alt="webpack"/>
   </a>
 </p>
