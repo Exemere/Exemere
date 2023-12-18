@@ -1,8 +1,9 @@
 
-
+</b>
 <center>Nicolas Esemere </center>
-                                                              
+  </b></b>                                                         
 <center>Software Developer</center>
+</b></b>
 <center></center>
                                                               
 <center>Hello there! 👋 Welcome to my GitHub profile. I'm Nicolas Esemere, a passionate software developer with expertise in JavaScript, React, Flask, Python, HTML & CSS, and Bootstrap. I love creating robust and efficient solutions to solve real-world problems.<center>
