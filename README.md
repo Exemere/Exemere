@@ -1,7 +1,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-![Logo](logo.png)
+![exere](logo.png)
 <h1 align="center">Nicolas Esemere </h1>
-<h4 align="center">~Software Developer~</h4>
+<h3 align="center">~Software Developer~</h3>
 <div align="center"><a href="https://linkedin.com/in/abdoachhoubi" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
