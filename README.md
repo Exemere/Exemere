@@ -97,9 +97,21 @@ I am dedicated to crafting clean and scalable code that brings ideas to life. My
 🌱 What I'm Currently Learning
 Continuous learning is a key aspect of my professional journey. Here are some of the technologies and skills I'm currently exploring:
 
- <p> Microsoft Dynamics</b>
-    Docker</b>
-    Next.js</p>
+<p>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft%20Dynamics-365-blue?logo=microsoft-dynamics"/>
+  </a>
+ </p>
+ <p>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+  </a>
+ </p>
+ <p>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"alt="webpack"/>
+  </a>
+ </p>
  
  <a href="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity?repo_id=41986369" target="_blank" style="display: block" align="center">
   <picture>
