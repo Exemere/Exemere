@@ -25,8 +25,16 @@ I am dedicated to crafting clean and scalable code that brings ideas to life. My
 <h2 align="center"> 💻 Tech Stack & Tools</h2>
 <h3 align="center">Frontend</h3>
 <p align="center">
+       <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://img.shields.io/badge/HTML-5E5E5E?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML Badge""
+      alt="bootstrap"/>
+  </a>
       <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
+      alt="bootstrap"/>
+  </a>
+       <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://img.shields.io/badge/CSS-3C9CD7?style=for-the-badge&logo=css3&logoColor=white" alt="HTML Badge""
       alt="bootstrap"/>
   </a>
   <a href="https://babeljs.io/" target="_blank">
@@ -36,12 +44,10 @@ I am dedicated to crafting clean and scalable code that brings ideas to life. My
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
       alt="react"/> 
   <a href="https://webpack.js.org" target="_blank">
-    <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
+    <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript"
       alt="webpack"/>
   </a>
 </p>
-
-<h3 align="center">Backend</h3>
 <p align="center">
   <a href="https://hibernate.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen " /> 
