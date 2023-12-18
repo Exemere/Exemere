@@ -124,14 +124,16 @@ Continuous learning is a key aspect of my professional journey. Here are some of
                                                                     
 I'm always open to collaboration and connecting with fellow developers. If you have any questions, suggestions, or just want to chat, feel free to reach out to me:
 
-📧 Email: nesemere@gmail.com
-💼 LinkedIn: Nicolas Esemere
-🌐 Explore My Work
+📧 Email: nesemere@gmail.com  
+💼 LinkedIn: Nicolas Esemere  
+
+🌐 Explore My Work  
 Take a look at some of my projects and contributions. Your feedback is always welcome!
 
-Project 1 - Charity Donation platform
-Project 2 - Tech Zone
-Project 3 - Dev Chat
+Project 1 - Charity Donation platform  
+Project 2 - Tech Zone  
+Project 3 - Dev Chat  
+
 Feel free to explore my repositories, and don't forget to star the ones you find interesting! ⭐️
 
 Thank you for visiting my GitHub profile. Happy coding! 🚀
