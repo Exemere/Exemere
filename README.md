@@ -55,12 +55,6 @@ I am dedicated to crafting clean and scalable code that brings ideas to life. My
     <a href="https://spring.io/" target="_blank"> 
       <img src="https://img.shields.io/badge/Flask-%2343853D.svg?style=for-the-badge&logo=flask&logoColor=white" alt="spring" /> 
   </a>
-  <a href="https://spring.io/" target="_blank"> 
-    <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="spring Boot" /> 
-  </a>
-  <a href="https://graphql.org" target="_blank">
-    <img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
-  </a>
   <a href="https://www.nginx.com" target="_blank"> 
     <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" 
       alt="nginx"/> 
