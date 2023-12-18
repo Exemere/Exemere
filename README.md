@@ -1,27 +1,33 @@
-### Hi there 👋
 
-Nicolas Esemere - Software Developer
+
+                                                                      Nicolas Esemere 
+                                                              
+                                                                     Software Developer
+                                                                  🌐   ⚛️  🌶️  🐍  🎨  🅱️ 
+                                                              
 Hello there! 👋 Welcome to my GitHub profile. I'm Nicolas Esemere, a passionate software developer with expertise in JavaScript, React, Flask, Python, HTML & CSS, and Bootstrap. I love creating robust and efficient solutions to solve real-world problems.
 
-🚀 About Me
+                                                                       🚀 About Me
+
 I am dedicated to crafting clean and scalable code that brings ideas to life. My journey in software development has equipped me with the skills to build dynamic web applications, and I'm always excited to explore new technologies and methodologies.
 
-💻 Technologies & Tools
+                                                                  💻 Technologies & Tools
 Here are some of the technologies and tools I specialize in:
 
-JavaScript: Leveraging the power of JavaScript for both frontend and backend development.
-React: Building responsive and interactive user interfaces with the React library.
-Flask: Creating web applications and APIs using the Flask framework in Python.
-Python: A versatile language that I use for various purposes, from backend development to scripting.
-HTML & CSS: Crafting the structure and styling of web applications to create visually appealing experiences.
-Bootstrap: Enhancing the design and responsiveness of projects with the Bootstrap framework.
+- **JavaScript** 🌐
+- **React** ⚛️
+- **Flask** 🌶️
+- **Python** 🐍
+- **HTML & CSS** 🎨
+- **Bootstrap** 🅱️
 🌱 What I'm Currently Learning
 Continuous learning is a key aspect of my professional journey. Here are some of the technologies and skills I'm currently exploring:
 
- GraphQL
+ Microsoft Dynamics
  Docker
  Next.js
-📫 Get in Touch
+                                                                    📫 Get in Touch
+                                                                    
 I'm always open to collaboration and connecting with fellow developers. If you have any questions, suggestions, or just want to chat, feel free to reach out to me:
 
 📧 Email: nesemere@gmail.com
