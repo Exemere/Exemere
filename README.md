@@ -43,20 +43,19 @@ I am dedicated to crafting clean and scalable code that brings ideas to life. My
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
       alt="react"/> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+</p>
+<p align="center">
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"
       alt="webpack"/>
   </a>
-</p>
-<p align="center">
   <a href="https://hibernate.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen " /> 
   </a>
     <a href="https://spring.io/" target="_blank"> 
       <img src="https://img.shields.io/badge/Flask-%2343853D.svg?style=for-the-badge&logo=flask&logoColor=white" alt="spring"/> 
   </a>
- <p align="center">
-  <a href="https://www.postgresql.org" target="_blank"> 
+ <a href="https://www.postgresql.org" target="_blank"> 
     <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
       alt="postgresql"/> 
   </a>
@@ -64,6 +63,8 @@ I am dedicated to crafting clean and scalable code that brings ideas to life. My
     <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
       alt="sqlite"/> 
   </a>
+ </p>
+ <p align="center">
    <a href="https://netlify.com/" target="_blank">
     <img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=black" alt="firebase"/>
   </a>
@@ -71,7 +72,6 @@ I am dedicated to crafting clean and scalable code that brings ideas to life. My
     <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
       alt="heroku"/> 
   </a> 
-<p align="center">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
@@ -79,7 +79,6 @@ I am dedicated to crafting clean and scalable code that brings ideas to life. My
   <a href="https://github.com/ELanza-48" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
-</p>
 <p align="center">
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
