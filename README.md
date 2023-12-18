@@ -2,7 +2,7 @@
 </b>
 <h1 align="center">Nicolas Esemere </h1>
 <h2 align="center">Software Developer</h2>
-</b> 
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <a href="https://linkedin.com/in/abdoachhoubi" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
