@@ -44,7 +44,7 @@ I am dedicated to crafting clean and scalable code that brings ideas to life. My
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
       alt="react"/> 
   <a href="https://webpack.js.org" target="_blank">
-    <img src="https://img.shields.io/badge/Language-JavaScript-yellow?logo=javascript"
+    <img src="https://img.shields.io/badge/JavaScript-ES6%20%7C%20Node.js%20%7C%20React%20%7C%20Express-yellow?style=for-the-badge&logo=javascript"
       alt="webpack"/>
   </a>
 </p>
@@ -89,7 +89,6 @@ I am dedicated to crafting clean and scalable code that brings ideas to life. My
       alt="heroku"/> 
   </a> 
 </p>
-<h3 align="center">Version Control & CI/CD</h3>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
@@ -101,26 +100,11 @@ I am dedicated to crafting clean and scalable code that brings ideas to life. My
   <a href="https://gitlab.com/Elanza-48" target="_blank">
     <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
       alt="git"/>
-  </a>
-    <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
-      alt="docker"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/> 
-  </a>
 </p>
-
-<h3 align="center">Preferred IDEs  & Tools :</h3>
-<p align="center"> 
-  <a href="https://eclipse.org" target="_blank">
-    <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/> 
-  </a>
+<p align="center">
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
-  <a href="https://www.jetbrains.com/" target="_blank">
-    <img src="https://img.shields.io/badge/jetbrains%20IDE-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="jetbrains" />
   </a>
   <a href="https://postman.com" target="_blank"> 
     <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
