@@ -11,16 +11,20 @@ About Me</h2>
 
 I am dedicated to crafting clean and scalable code that brings ideas to life. My journey in software development has equipped me with the skills to build dynamic web applications, and I'm always excited to explore new technologies and methodologies.
 
-<h2 align="center"> 💻 Technologies & Tools</h2>
+<h2 align="center"> 💻 Tech Stack & Tools</h2>
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-Here are some of the technologies and tools I specialize in:
 
-- **JavaScript** 🌐
-- **React** ⚛️
-- **Flask** 🌶️
-- **Python** 🐍
-- **HTML & CSS** 🎨
-- **Bootstrap** 🅱️
 🌱 What I'm Currently Learning
 Continuous learning is a key aspect of my professional journey. Here are some of the technologies and skills I'm currently exploring:
 
