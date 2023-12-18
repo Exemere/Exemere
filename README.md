@@ -15,7 +15,7 @@
 <a href="https://achhoubiplus.hashnode.dev" target="_blank">
 <img src=https://img.shields.io/badge/hashnode-%2300acee.svg?color=2962FF&style=for-the-badge&logo=hashnode&logoColor=white alt=hshnode style="margin-bottom: 5px;" />
 </a>
-</b>
+</b>//
 <center>Hello there! 👋 Welcome to my GitHub profile. I'm Nicolas Esemere, a passionate software developer with expertise in JavaScript, React, Flask, Python, HTML & CSS, and Bootstrap. I love creating robust and efficient solutions to solve real-world problems.<center>
 
 <h2 align="center"><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
