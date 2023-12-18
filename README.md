@@ -55,8 +55,7 @@ I am dedicated to crafting clean and scalable code that brings ideas to life. My
     <a href="https://spring.io/" target="_blank"> 
       <img src="https://img.shields.io/badge/Flask-%2343853D.svg?style=for-the-badge&logo=flask&logoColor=white" alt="spring"/> 
   </a>
-</p>
-<p align="center">
+ <p align="center">
   <a href="https://www.postgresql.org" target="_blank"> 
     <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
       alt="postgresql"/> 
@@ -65,16 +64,13 @@ I am dedicated to crafting clean and scalable code that brings ideas to life. My
     <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
       alt="sqlite"/> 
   </a>
-</p>
-<p align="center">
-  <a href="https://netlify.com/" target="_blank">
+   <a href="https://netlify.com/" target="_blank">
     <img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=black" alt="firebase"/>
   </a>
   <a href="https://heroku.com" target="_blank"> 
     <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
       alt="heroku"/> 
   </a> 
-</p>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
