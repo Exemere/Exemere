@@ -1,20 +1,17 @@
-<h1 align="center">Nicolas Esemere - Software Developer</h1>
-
 </b>
-<center>Nicolas Esemere </center>
-  </b></b>                                                         
-<center>Software Developer</center>
-</b></b>
-<center></center>
-                                                              
+</b>
+<h1 align="center">Nicolas Esemere </h1>
+</b>
+<h2 align="center">Software Developer</h2>
+</b>                                                          
 <center>Hello there! 👋 Welcome to my GitHub profile. I'm Nicolas Esemere, a passionate software developer with expertise in JavaScript, React, Flask, Python, HTML & CSS, and Bootstrap. I love creating robust and efficient solutions to solve real-world problems.<center>
 
-<center><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
-About Me</center>
+<h2 align="center"><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
+About Me</h2>
 
 I am dedicated to crafting clean and scalable code that brings ideas to life. My journey in software development has equipped me with the skills to build dynamic web applications, and I'm always excited to explore new technologies and methodologies.
 
-<center> 💻 Technologies & Tools</center>
+<h2 align="center"> 💻 Technologies & Tools</h2>
 
 Here are some of the technologies and tools I specialize in:
 
@@ -38,7 +35,7 @@ Continuous learning is a key aspect of my professional journey. Here are some of
   </picture>
 </a>
 </b>
-<center>Let's Connect..!<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></center>
+<h2 align="center">Let's Connect..!<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h2>
                                                                     
 I'm always open to collaboration and connecting with fellow developers. If you have any questions, suggestions, or just want to chat, feel free to reach out to me:
 
