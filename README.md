@@ -23,6 +23,7 @@ About Me</h2>
 I am dedicated to crafting clean and scalable code that brings ideas to life. My journey in software development has equipped me with the skills to build dynamic web applications, and I'm always excited to explore new technologies and methodologies.
 
 <h2 align="center"> 💻 Tech Stack & Tools</h2>
+- :space_invader:
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
