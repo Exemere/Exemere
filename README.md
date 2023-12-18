@@ -118,16 +118,10 @@ Continuous learning is a key aspect of my professional journey. Here are some of
     <img alt="Collaborative Productivity of pingcap/tidb - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" width="488.5" height="auto">
   </picture>
 </a>
-</td>
-
-
-<td width="50%" align="center">
-
+<td width="50%" align="right">
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ElioChiu&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
 
   </td>
-</tr>
-</table>
 </b>
 <h2 align="center">Let's Connect..!<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h2>
                                                                     
