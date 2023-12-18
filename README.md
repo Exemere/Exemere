@@ -1,5 +1,5 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"/>
-<img src="https://i.pinimg.com/564x/e8/8e/6f/e88e6fd2482e6f84275a0df309369241.jpg" width="150" height="150" border-radius ="1em"/>
+<img src="https://i.pinimg.com/564x/e8/8e/6f/e88e6fd2482e6f84275a0df309369241.jpg" width="150" align="center" height="150" style="border-radius: 10;"/>
 <h1 align="center">Nicolas Esemere </h1>
 <h3 align="center">~Software Developer~</h3>
 <div align="center"><a href="https://linkedin.com/in/abdoachhoubi" target="_blank">
