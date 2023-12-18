@@ -24,7 +24,7 @@ I am dedicated to crafting clean and scalable code that brings ideas to life. My
 
 <h2 align="center"> 💻 Tech Stack & Tools</h2>
 - :space_invader:
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
