@@ -1,9 +1,8 @@
-</b>
-</b>
 <h1 align="center">Nicolas Esemere </h1>
-<h2 align="center">Software Developer</h2>
+<h3 align="center">~Software Developer~</h3>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<a href="https://linkedin.com/in/abdoachhoubi" target="_blank">
+
+<div align="center"><a href="https://linkedin.com/in/abdoachhoubi" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/abdo_achhoubi" target="_blank">
@@ -14,7 +13,7 @@
 </a>
 <a href="https://achhoubiplus.hashnode.dev" target="_blank">
 <img src=https://img.shields.io/badge/hashnode-%2300acee.svg?color=2962FF&style=for-the-badge&logo=hashnode&logoColor=white alt=hshnode style="margin-bottom: 5px;" />
-</a>
+</a></div>
 </b>//
 <center>Hello there! 👋 Welcome to my GitHub profile. I'm Nicolas Esemere, a passionate software developer with expertise in JavaScript, React, Flask, Python, HTML & CSS, and Bootstrap. I love creating robust and efficient solutions to solve real-world problems.<center>
 
