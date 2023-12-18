@@ -118,7 +118,6 @@ Continuous learning is a key aspect of my professional journey. Here are some of
     <img alt="Collaborative Productivity of pingcap/tidb - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" width="488.5" height="auto">
   </picture>
 </a>
-<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ElioChiu&theme=dark&hide_border=false" /> 
 </td>
 
 
