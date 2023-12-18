@@ -1,5 +1,5 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-![Logo](/logo.png)
+![Logo](logo.png)
 <h1 align="center">Nicolas Esemere </h1>
 <h3 align="center">~Software Developer~</h3>
 <div align="center"><a href="https://linkedin.com/in/abdoachhoubi" target="_blank">
