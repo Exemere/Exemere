@@ -23,7 +23,6 @@ About Me</h2>
 I am dedicated to crafting clean and scalable code that brings ideas to life. My journey in software development has equipped me with the skills to build dynamic web applications, and I'm always excited to explore new technologies and methodologies.
 
 <h2 align="center"> 💻 Tech Stack & Tools</h2>
-<h3 align="center">Frontend</h3>
 <p align="center">
        <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.shields.io/badge/HTML-5E5E5E?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML Badge""
@@ -119,6 +118,17 @@ Continuous learning is a key aspect of my professional journey. Here are some of
     <img alt="Collaborative Productivity of pingcap/tidb - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" width="488.5" height="auto">
   </picture>
 </a>
+<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ElioChiu&theme=dark&hide_border=false" /> 
+</td>
+
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ElioChiu&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+
+  </td>
+</tr>
+</table>
 </b>
 <h2 align="center">Let's Connect..!<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h2>
                                                                     
