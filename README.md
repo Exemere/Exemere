@@ -6,7 +6,7 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="YOUR_PORTFOLIO_URL" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-brightgreen?style=flat-square" alt="portfolio" style="margin-bottom: 5px;"/>
+  <img src="https://img.shields.io/badge/Portfolio-%2300acee.svg?color=1DA1F2&style=for-the-badge" alt="portfolio" style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/abdo.achhoubi" target="_blank">
 <img src=https://img.shields.io/badge/Portfolio-View%20My%20Work-brightgreen?style=flat-square alt=instagram style="margin-bottom: 5px;" />
