@@ -3,7 +3,7 @@
 <h1 align="center">Nicolas Esemere </h1>
 <h3 align="center">💻Software Developer💻</h3>
 <div align="center">
-<a href="www.linkedin.com/in/exere-corp-a505412a5" target="_blank">
+<a href="https://www.linkedin.com/in/exere-corp-a505412a5/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?color=1DA1F2&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"  />
 </a>
 <a href="https://twitter.com/ExereCorp">
