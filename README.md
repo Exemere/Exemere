@@ -2,14 +2,15 @@
 <div align="center"><img src="https://i.pinimg.com/564x/e8/8e/6f/e88e6fd2482e6f84275a0df309369241.jpg" width="100" align="center" height="100"/></div>
 <h1 align="center">Nicolas Esemere </h1>
 <h3 align="center">💻Software Developer💻</h3>
-<div align="center"><a href="https://twitter.com/abdo_achhoubi" target="_blank">
+<div align="center">
+<a href="www.linkedin.com/in/nicolas-esemere-48a6b7256" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?color=1DA1F2&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"  />
+</a>
+<a href="https://twitter.com/abdo_achhoubi" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="YOUR_PORTFOLIO_URL" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-%2300acee.svg?color=1DA1F2&style=for-the-badge" alt="portfolio" style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/abdo.achhoubi" target="_blank">
-<img src=https://img.shields.io/badge/Portfolio-View%20My%20Work-brightgreen?style=flat-square alt=instagram style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/Portfolio-%2300acee.svg?color=1DA1F2&style=for-the-badge" alt="portfolio" />
 </a>
 <a href="https://achhoubiplus.hashnode.dev" target="_blank">
 <img src=https://img.shields.io/badge/hashnode-%2300acee.svg?color=2962FF&style=for-the-badge&logo=hashnode&logoColor=white alt=hshnode style="margin-bottom: 5px;" />
