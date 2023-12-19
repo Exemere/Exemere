@@ -4,7 +4,7 @@
 <h3 align="center">💻Software Developer💻</h3>
 <div align="center">
 <a href="www.linkedin.com/in/nicolas-esemere-48a6b7256" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?color=1DA1F2&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"  />
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?color=1DA1F2&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"  />
 </a>
 <a href="https://twitter.com/abdo_achhoubi" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
