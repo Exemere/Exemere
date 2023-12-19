@@ -111,14 +111,7 @@ Continuous learning is a key aspect of my professional journey. Here are some of
     <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"alt="webpack"/>
   </a>
  </p>
- 
- <a href="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity?repo_id=41986369" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark" width="488.5" height="auto">
-    <img alt="Collaborative Productivity of pingcap/tidb - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" width="488.5" height="auto">
-  </picture>
-</a>
-<td width="50%" align="right">
+<td width="50%" align="center">
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ElioChiu&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
 
   </td>
