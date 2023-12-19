@@ -111,7 +111,7 @@ Continuous learning is a key aspect of my professional journey. Here are some of
     <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"alt="webpack"/>
   </a>
  </p>
-<td width="50%" align="center">
+<td width="90%" align="center">
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ElioChiu&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
   </td>
 </b>
