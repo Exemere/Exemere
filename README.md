@@ -38,7 +38,7 @@ I am dedicated to crafting clean and scalable code that brings ideas to life. My
       alt="bootstrap"/>
   </a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/Next.js-style=for-the-badge&logo=css3&logoColor=white"alt="webpack"/>
+    <img src="https://img.shields.io/badge/Next.js-?black style=for-the-badge&logo=css3&logoColor=white"alt="webpack"/>
   </a>
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
