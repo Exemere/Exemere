@@ -37,8 +37,8 @@ I am dedicated to crafting clean and scalable code that brings ideas to life. My
     <img src="https://img.shields.io/badge/CSS-3C9CD7?style=for-the-badge&logo=css3&logoColor=white" alt="HTML Badge""
       alt="bootstrap"/>
   </a>
-  <a href="https://babeljs.io/" target="_blank">
-    <img src="https://img.shields.io/badge/next-js-F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=black" alt="babel"/> 
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"alt="webpack"/>
   </a>
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
